@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+src/splaz/__init__.py
+src/splaz/constants.py
+src/splaz/downloader.py
+src/splaz/entities.py
+src/splaz/geocoder.py
+src/splaz.egg-info/PKG-INFO
+src/splaz.egg-info/SOURCES.txt
+src/splaz.egg-info/dependency_links.txt
+src/splaz.egg-info/requires.txt
+src/splaz.egg-info/top_level.txt
+tests/test_downloader.py
+tests/test_end2end.py
+tests/test_entities.py
+tests/test_geocoder.py
