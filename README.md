@@ -20,12 +20,10 @@ Este projeto é a base técnica do projeto Vagas Verdes, focado em identificar �
 - Gestão de Cache: Armazenamento inteligente na pasta local .geosp_laz_api para evitar downloads repetitivos e poupar banda.
 
 ## 📦 Instalação
-O próximo passo do projeto será a publicação no PyPI. Atualmente, a biblioteca pode ser instalada diretamente via pip a partir do diretório raiz:
 
-Bash
-
-### Instalação via pip
+```` Bash
 pip install splaz
+```
 ### 🛠 Exemplos de Uso
 #### 1. Configuração Inicial
 ```Python
