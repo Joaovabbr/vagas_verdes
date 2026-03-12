@@ -1,5 +1,0 @@
-requests
-geopandas
-geopy
-shapely
-laspy
