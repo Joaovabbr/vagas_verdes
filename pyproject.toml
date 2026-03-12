@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "splaz"
+version = "0.1.0"
+description = "API para facilitar o acesso a dados LiDAR do GeoSampa"
+authors = [
+    {name = "João Braga"}
+]
+dependencies = [
+    "requests",
+    "geopandas",
+    "geopy",
+    "shapely",
+    "laspy",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
