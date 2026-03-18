@@ -28,7 +28,7 @@ pip install splaz
 #### 1. Configuração Inicial
 ```Python
 
-from splaz import GeospLidarClient, GeospGeocoder
+from splaz import SpLaz, SpLazGeo
 
 client = SpLaz()
 geo = SpLazGeo(client=client)
